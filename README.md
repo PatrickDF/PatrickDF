@@ -1,4 +1,8 @@
-## Olá, me chamo Patrick Cardoso, sou criador de conteúdo de programação e tecnologia!
+## Hi, my name is Patrick Cardoso, I'm a programming and technology content creator!
+
+<br>
+<br>
+
 <div align="center">
   <a href="https://github.com/PatrickDF">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PatrickDF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
