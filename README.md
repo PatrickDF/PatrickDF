@@ -16,7 +16,6 @@
   <img align="center" alt="Patrick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Patrick-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="Patrick-VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="Patrick-Dinamico" src="https://github-readme-stats.vercel.app/api/top-langs/?username={PatrickDF}">
 </div>
   
   ##
@@ -30,8 +29,9 @@
 </div>
 
 
-  # And if you are a recruiter:
-  ![callme]_(https://gfycat.com/gifs/search/shaquille+o%27neal+kisses)
+</br> And if you are a recruiter:
+  ![callme]_(https://githubusercontent.com/38141771/108897112-82b06380-75f4-11eb-874d-b85a71be9a1b.gif)
+
 </div>
 
 
