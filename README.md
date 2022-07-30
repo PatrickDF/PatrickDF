@@ -1,7 +1,7 @@
 ## Hi, my name is Patrick Cardoso, I'm a programming and technology content creator!
 
-<br>
-<br>
+</br>
+
 
 <div align="center">
   <a href="https://github.com/PatrickDF">
@@ -29,8 +29,10 @@
  
 </div>
 
-##
-<div> 
-  <img align="center" alt="Call Me" src="https://gfycat.com/gifs/search/shaquille+o%27neal+kisses">
+
+  # And if you are a recruiter:
+  ![callme]_(https://gfycat.com/gifs/search/shaquille+o%27neal+kisses)
 </div>
+
+
 
